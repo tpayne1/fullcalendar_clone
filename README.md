@@ -9,3 +9,4 @@ A full-sized drag & drop JavaScript event calendar
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
 - [License](LICENSE.txt)
+Test
